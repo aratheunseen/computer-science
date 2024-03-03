@@ -1,0 +1,15 @@
+[submodule "algorithms"]
+	path = algorithms
+	url = https://github.com/aratheunseen/algorithms.git
+[submodule "numerical-methods"]
+	path = numerical-methods
+	url = https://github.com/aratheunseen/numerical-methods.git
+[submodule "cryptography"]
+	path = cryptography
+	url = https://github.com/aratheunseen/cryptography.git
+[submodule "assembly"]
+	path = assembly
+	url = https://github.com/aratheunseen/assembly.git
+[submodule "computer-graphics"]
+	path = computer-graphics
+	url = https://github.com/aratheunseen/computer-graphics.git
